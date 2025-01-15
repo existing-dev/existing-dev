@@ -35,9 +35,9 @@ Welcome to my GitHub profile! I'm currently a junior developer, passionate about
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=existing-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=existing-dev&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=existing-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=existing-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=existing-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=existing-dev)](https://git.io/streak-stats)
 
 
 
