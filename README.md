@@ -43,7 +43,9 @@ Welcome to my GitHub profile! I'm currently a junior developer, passionate about
     <img src="https://github-readme-stats.vercel.app/api?username=existing-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="height: 200px;"/>
   </div>
 </div> <br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=existing-dev&theme=radical&hide_border=true)](https://git.io/streak-stats)
+<div align="center">
+	[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=existing-dev&theme=radical&mode=weekly)](https://git.io/streak-stats)
+</div>
 
  ---
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=existing-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
