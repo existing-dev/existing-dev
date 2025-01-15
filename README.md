@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm currently a junior developer, passionate about
 ---
 
 ## 🚀 About Me
-- 🌱 Currently learning **C**, **Linux**, and **Computer Architecture** at work
+- 🌱 Currently learning **C**, later **Linux**, and **Computer Architecture** at work for required training
 - 🧑‍💻 Exploring **Systems Programming** and aiming to specialize in **Embedded Systems**
 - 🛠 Building projects with **C**, **C#**, **Rust**, and **Unity**
 - 🎮 Enthusiastic about game development and hope to one day build my own indie game
@@ -33,11 +33,12 @@ Welcome to my GitHub profile! I'm currently a junior developer, passionate about
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+ 
+ ---
 
 # 📊GitHub Stats :
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=existing-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=existing-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=existing-dev)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=existing-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=existing-dev&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-
-
+ ---
