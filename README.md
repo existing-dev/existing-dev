@@ -1,16 +1,52 @@
-## Hi there 👋
+![Header Image](/personal.png)
 
-<!--
-**existing-dev/existing-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there, I'm Maame 👋
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm currently a junior developer, passionate about exploring technologies, building projects, and contributing to the tech community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 🌱 Currently learning **C**, **Linux**, and **Computer Architecture** at work
+- 🧑‍💻 Exploring **Systems Programming** and aiming to specialize in **Embedded Systems**
+- 🛠 Building projects with **C**, **C#**, **Rust**, and **Unity**
+- 🎮 Enthusiastic about game development and hope to one day build my own indie game
+- 💡 Open to collaborations on **hackathons**, **open source projects**, and innovative ideas
+- 🏋️‍♀️ Strength training enthusiast balancing work and fitness
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love mixing tech and creativity to build innovative solutions and memorable experiences. Outside of tech, I enjoy strength training and exploring new recipes!
+
+---
+
+## 🔧 Technologies & Tools
+
+### Programming Languages
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Tools
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=existing-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=existing-dev&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=existing-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=existing-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 📫 How to Reach Me
+- 🐦 [Twitter](https://twitter.com/maame_deveer)
+- 💼 [LinkedIn](https://linkedin.com/in/maamelankardeveer)
+- 🌐 [Portfolio] working on it 😉
+- 📧 Email: your.email@example.com
+
+### Let's Build Something Amazing Together! 🚀
+
+
