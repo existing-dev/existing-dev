@@ -37,8 +37,14 @@ Welcome to my GitHub profile! I'm currently a junior developer, passionate about
  ---
 
 # 📊GitHub Stats :
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=existing-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=existing-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<div align="center">
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=existing-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="height: 200px;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=existing-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="height: 200px;"/>
+  </div>
+</div> <br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=existing-dev&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
  ---
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=existing-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=existing-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
