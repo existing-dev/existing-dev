@@ -1,5 +1,7 @@
-![Header Image](/personal.png)
-
+<div align="center">
+    <img src="/personal.png" alt="Koya Header Image" />
+</div>
+<!--![Header Image](/personal.png)-->
 ## Hi there, I'm Maame 👋
 
 Welcome to my GitHub profile! I'm currently a junior developer, passionate about exploring technologies, building projects, and contributing to the tech community.
