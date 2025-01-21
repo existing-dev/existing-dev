@@ -23,7 +23,11 @@ Welcome to my GitHub profile! I'm currently a junior developer, passionate about
 
 ### 🎧 I'm listening to:
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31qn262muj5qc3mujeaordovnkpu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/maame/spotify-github-profile)
+<div align="center">
+  <a href="https://github.com/maame/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31qn262muj5qc3mujeaordovnkpu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true" alt="Spotify" />
+  </a>
+</div>
 
 ---
 
