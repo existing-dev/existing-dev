@@ -2,6 +2,7 @@
     <img src="/personal.png" alt="Koya Header Image" />
 </div>
 <!--![Header Image](/personal.png)-->
+
 ## Hi there, I'm Maame 👋
 
 Welcome to my GitHub profile! I'm currently a junior developer, passionate about exploring technologies, building projects, and contributing to the tech community.
@@ -53,7 +54,7 @@ Welcome to my GitHub profile! I'm currently a junior developer, passionate about
 </div> <br/>
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=existing-dev" alt="GitHub Streak Stats" />
+    <img src="https://streak-stats.demolab.com?user=existing-dev&theme=radical" alt="GitHub Streak Stats" />
   </a>
 </div>
 
