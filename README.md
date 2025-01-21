@@ -65,4 +65,7 @@ Welcome to my GitHub profile! I'm currently a junior developer, passionate about
  ---
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=existing-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=existing-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/> 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=existing-dev&theme=radical&mode=weekly)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=existing-dev&theme=radical&mode=weekly)](https://git.io/streak-stats) 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31qn262muj5qc3mujeaordovnkpu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/maame/spotify-github-profile)
+-->
+
