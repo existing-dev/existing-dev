@@ -18,35 +18,16 @@ Welcome to my GitHub profile! I'm currently a junior engineer, passionate about 
 - 🏋️‍♀️ Strength training enthusiast balancing work and fitness
 - 😄 Pronouns: She/Her
 
----
-
-### 🎧 I'm listening to:
-
-<div align="center">
-  <a href="https://github.com/maame/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31qn262muj5qc3mujeaordovnkpu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true" alt="Spotify" />
-  </a>
-</div>
-
----
-
 # 📊GitHub Stats :
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=existing-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="height: 200px;"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=existing-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="height: 200px;"/>
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=existing-dev&layout=compact&hide_progress=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=existing-dev&layout=compact&hide_progress=true&theme=midnight-purple"/>
   </div>
-</div> <br/>
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=existing-dev&theme=radical" alt="GitHub Streak Stats" />
-  </a>
-</div>
+</div> 
 
  ---
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=existing-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=existing-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/> 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=existing-dev&theme=radical&mode=weekly)](https://git.io/streak-stats) 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31qn262muj5qc3mujeaordovnkpu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/maame/spotify-github-profile)
+<!--
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=existing-dev&layout=compact&hide_progress=true&theme=aura)](https://github-stats-extended.vercel.app/api/top-langs?username=existing-dev&layout=compact&hide_progress=true&theme=aura)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=existing-dev&layout=compact&hide_progress=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=existing-dev&layout=compact&hide_progress=true&theme=midnight-purple)
 -->
 
