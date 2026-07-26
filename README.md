@@ -18,14 +18,13 @@ Welcome to my GitHub profile! I'm currently a junior engineer, passionate about 
 - 🏋️‍♀️ Strength training enthusiast balancing work and fitness
 - 😄 Pronouns: She/Her
 
-# 📊GitHub Stats :
+---
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="https://github-stats-extended.vercel.app/api/top-langs?username=existing-dev&layout=compact&hide_progress=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=existing-dev&layout=compact&hide_progress=true&theme=midnight-purple"/>
   </div>
 </div> 
 
- ---
 <!--
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=existing-dev&layout=compact&hide_progress=true&theme=aura)](https://github-stats-extended.vercel.app/api/top-langs?username=existing-dev&layout=compact&hide_progress=true&theme=aura)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=existing-dev&layout=compact&hide_progress=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=existing-dev&layout=compact&hide_progress=true&theme=midnight-purple)
