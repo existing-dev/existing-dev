@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm currently a junior engineer, passionate about 
 ---
 
 ## 🚀 About Me
-- 🌱 Currently I do a lot of RTL Verification, Simulation with **Icarus Verilog** and **Verilator** and Emulation with Quartus and FPGAs
+- 🌱 Currently I do a lot of RTL Verification, Simulation with **Icarus Verilog** and **Verilator** and Emulation on FPGAs with Quartus.
 - 🧑‍💻 Exploring building hardware projects on various microcontroller boards, currently building a procject with the **Raspberry Pi Pico** board
 - 🛠 Building projects with **C**, **VerilogHDL** and **Python**
 - 🎮 Enthusiastic about game development and hope to one day build my own indie game
